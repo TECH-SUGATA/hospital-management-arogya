@@ -3,7 +3,6 @@
 > **MediFind AI** — An intelligent system that finds the best hospital during medical emergencies using ML predictions, NLP sentiment analysis, multi-factor ranking, and real-time crowd data.
 
 ---
-
 ## 🏗️ Project Structure
 
 ```
